@@ -1,0 +1,36 @@
+.intro{
+  font-weight: bold;
+  font-style: italic;
+  background-color: #0097A7;
+  color: #795548
+}
+.middle{
+  color: #689f38;
+  text-align: center
+}
+.different{
+  text-align: center;
+  color:#696969;
+  background-color: #689F38
+
+}
+.sidebar{
+  text-align: right;
+  color:#0097A7;
+  background-color: #696969
+}
+img{
+  width: 200px;
+  height: 200px;
+  margin: 12px;
+
+        border: 2px solid black;
+
+        padding: 4px;
+
+        background-color: grey;
+
+
+
+
+}

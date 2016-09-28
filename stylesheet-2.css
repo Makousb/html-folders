@@ -1,0 +1,25 @@
+h1{font-family: monospace;
+  text-align: center;
+  color: #F8F8FF;
+}
+
+p{font-family: monospace;
+  color: #F8F8FF;
+  font-size: 15px;
+}
+body{background-image: url("http://stream1.gifsoup.com/view7/4871491/beach-dreaming-8lo8-ytfifs-o.gif");
+background-size: cover;
+background-color: transparent;
+}
+.intro{font-style: italic;
+        color: #8B0000;
+        text-align: center;
+        width: 50%;
+}
+p.author{width: 75%;
+        font-style: italic;
+        font-weight: bold;
+
+}
+.important{color: red;
+}
